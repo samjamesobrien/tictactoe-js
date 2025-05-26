@@ -1,0 +1,19 @@
+{
+  "name": "tictactoe",
+  "version": "1.0.0",
+  "description": "Javascript tic tac toe coding challenge for interviews",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samjamesobrien/tictactoe-js.git"
+  },
+  "author": "Sam O'Brien",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/samjamesobrien/tictactoe-js/issues"
+  },
+  "homepage": "https://github.com/samjamesobrien/tictactoe-js#readme"
+}
